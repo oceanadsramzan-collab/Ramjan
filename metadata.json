@@ -1,0 +1,6 @@
+{
+  "name": "RJ All India Traveller Guide",
+  "description": "Curated travel journalism, architectural itineraries, and native expedition guides across the Indian subcontinent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
